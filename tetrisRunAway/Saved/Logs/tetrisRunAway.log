@@ -2788,3 +2788,518 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.09-10.40.03:232][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.06.09-10.40.09:441][511]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
 [2023.06.09-10.40.09:441][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-10.57.47:153][706]LogDerivedDataCache: C:/Users/dakka/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.169 and deleted 0 files with total size 0 MiB. Scanned 8658 files in 8303 folders with total size 235 MiB.
+[2023.06.09-11.00.48:844][251]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Galaxy Buds Pro (BE58)), InstanceID=1
+[2023.06.09-11.00.49:104][251]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14692
+[2023.06.09-11.00.49:439][252]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58c0a5fd-1c57-4bfc-8e80-c7dacd227405}, Name=Headphones (Galaxy Buds Pro (BE58))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.38
+[2023.06.09-11.00.49:439][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.09-11.00.49:441][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.09-11.00.50:471][256]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.06.09-11.00.50:771][256]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14692
+[2023.06.09-11.00.51:106][257]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{99972366-fd29-4f0a-be3e-7ffdb229b84f}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=87.32
+[2023.06.09-11.00.51:106][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.09-11.00.51:108][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.09-11.00.58:459][280]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Galaxy Buds Pro (BE58)), InstanceID=1
+[2023.06.09-11.00.58:771][280]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14692
+[2023.06.09-11.00.59:107][281]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58c0a5fd-1c57-4bfc-8e80-c7dacd227405}, Name=Headphones (Galaxy Buds Pro (BE58))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=46.38
+[2023.06.09-11.00.59:107][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.09-11.00.59:109][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.09-11.03.52:171][657]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.09-11.03.52:171][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: ================================================
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: Total job queries 255, among them cache hits 42 (16.47%)
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: Tracking 213 distinct input hashes that result in 116 distinct outputs (54.46%)
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: RAM used: 1.64 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.09-11.03.52:834][659]LogShaderCompilers: Display: ================================================
+[2023.06.09-11.06.26:482][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.06.09-11.06.26:485][495]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level/level1' took 0.038
+[2023.06.09-11.06.26:485][495]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.06.09-11.06.26:521][495]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2023.06.09-11.06.26:535][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.06.09-11.06.26:535][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.06.09-11.06.26:569][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2023.06.09-11.06.26:570][495]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/BP_ThirdPersonCharacter_Auto317F2004A42F4A131F55EF49B53FFEAD7.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2023.06.09-11.06.26:571][495]LogFileHelpers: Auto-saving content packages took 0.086
+[2023.06.09-11.14.57:166][828]LogViewport: Scene viewport resized to 1202x869, mode Windowed.
+[2023.06.09-11.15.40:964][424]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.09-11.15.41:073][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.06.09-11.15.41:097][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-11.15.41:207][424]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.09-11.15.41:208][424]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/BP_ThirdPersonCharacter7D02597E4185AB09765A07B4FB5F01B3.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.09-11.15.41:216][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.53 sec)
+[2023.06.09-11.15.41:227][424]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.09-11.15.41:227][424]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.09-11.16.26:989][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.06.09-11.16.26:992][706]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/level/level1' took 0.033
+[2023.06.09-11.16.26:992][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.06.09-11.16.27:012][706]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.06.09-11.16.27:012][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.06.09-11.16.27:045][706]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2023.06.09-11.16.27:045][706]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/BP_ThirdPersonCharacter_Auto4C374C7C742B57BAFE0DB918F6B583C90.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2023.06.09-11.16.27:045][706]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.06.09-11.17.06:899][826]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.06.09-11.17.07:010][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.06.09-11.17.07:039][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-11.17.07:183][826]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.09-11.17.07:184][826]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/BP_ThirdPersonCharacterA8BA5D0D47CA9100F083CDB6C0AE1922.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.09-11.17.07:191][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1.68 sec)
+[2023.06.09-11.17.07:203][826]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.09-11.17.07:203][826]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.09-11.19.17:414][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-11.19.17:500][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.09-11.19.17:521][349]LogSavePackage: Moving output files for package: /Game/level/level1
+[2023.06.09-11.19.17:522][349]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/level1BF7789AD4FFCA69A3100EC8EA7EF68EB.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/level1.umap'
+[2023.06.09-11.19.17:530][349]LogFileHelpers: Saving map 'level1' took 0.061
+[2023.06.09-11.19.17:536][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1.80 sec)
+[2023.06.09-11.19.17:547][349]AssetCheck: New page: Asset Save: level1
+[2023.06.09-11.19.17:547][349]LogContentValidation: Display: Validating /Script/Engine.World /Game/level/level1.level1
+[2023.06.09-11.19.17:804][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-11.19.17:885][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.06.09-11.19.17:904][365]LogSavePackage: Moving output files for package: /Game/level/level1
+[2023.06.09-11.19.17:905][365]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/level1615A8E8348E21DA8F50B41B7071A5F26.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/level1.umap'
+[2023.06.09-11.19.17:912][365]LogFileHelpers: Saving map 'level1' took 0.056
+[2023.06.09-11.19.17:919][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.92 sec)
+[2023.06.09-11.19.17:929][365]AssetCheck: New page: Asset Save: level1
+[2023.06.09-11.19.17:929][365]LogContentValidation: Display: Validating /Script/Engine.World /Game/level/level1.level1
+[2023.06.09-11.19.24:352][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.09-11.19.24:414][744]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level/uitleg.uitleg
+[2023.06.09-11.19.24:414][744]Cmd: MAP LOAD FILE="../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/uitleg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.09-11.19.24:414][744]LightingResults: New page: Lighting Build
+[2023.06.09-11.19.24:414][744]LoadErrors: New page: Loading map: uitleg.umap
+[2023.06.09-11.19.24:417][744]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.19.24:417][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.19.24:417][744]MapCheck: New page: Map Check
+[2023.06.09-11.19.24:417][744]LightingResults: New page: Lighting Build
+[2023.06.09-11.19.24:443][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.19.24:445][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.09-11.19.24:449][744]LogWorld: UWorld::CleanupWorld for uitleg, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.19.24:449][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.19.24:480][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.06.09-11.19.24:508][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.06.09-11.19.24:510][744]LogAudio: Display: Audio Device (ID: 1) registered with world 'uitleg'.
+[2023.06.09-11.19.24:511][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.19.24:511][744]LogAIModule: Creating AISystem for world uitleg
+[2023.06.09-11.19.24:521][744]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.09-11.19.24:549][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.06.09-11.19.24:556][744]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.09-11.19.24:557][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2023.06.09-11.19.24:557][744]LogFileHelpers: Loading map 'uitleg' took 0.143
+[2023.06.09-11.19.25:577][805]LogEditorViewport: Clicking Background
+[2023.06.09-11.19.48:426][159]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/uitleg_wb.uitleg_wb
+[2023.06.09-11.19.48:427][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.19.48:434][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.19.48:790][159]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.09-11.19.48:790][159]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.09-11.20.04:458][ 85]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level/uitleg.uitleg:PersistentLevel.uitleg
+[2023.06.09-11.20.04:458][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.20.08:255][277]LogSlate: Window 'uitleg' being destroyed
+[2023.06.09-11.20.11:128][446]LogSlate: Window 'uitleg' being destroyed
+[2023.06.09-11.20.37:841][ 24]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.09-11.20.37:841][ 24]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.09-11.20.37:841][ 24]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.09-11.21.46:813][105]BlueprintLog: New page: Compile uitleg
+[2023.06.09-11.21.46:862][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.06.09-11.21.46:872][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-11.21.46:971][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.09-11.21.46:977][105]LogSavePackage: Moving output files for package: /Game/level/uitleg
+[2023.06.09-11.21.46:978][105]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/uitlegF1396A42471BD960264D61A2B25DC9E3.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/uitleg.umap'
+[2023.06.09-11.21.46:987][105]LogFileHelpers: Saving map 'uitleg' took 0.055
+[2023.06.09-11.21.46:993][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.04 sec)
+[2023.06.09-11.21.47:005][105]AssetCheck: New page: Asset Save: uitleg
+[2023.06.09-11.21.47:005][105]LogContentValidation: Display: Validating /Script/Engine.World /Game/level/uitleg.uitleg
+[2023.06.09-11.22.01:933][997]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/level/main_menu.main_menu
+[2023.06.09-11.22.01:933][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.01:944][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.02:279][997]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.09-11.22.02:280][997]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.09-11.22.26:443][421]BlueprintLog: New page: Compile main_menu
+[2023.06.09-11.22.26:513][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.09-11.22.26:525][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-11.22.26:601][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/main_menu" FILE="../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/main_menu.uasset" SILENT=true
+[2023.06.09-11.22.26:612][421]LogSavePackage: Moving output files for package: /Game/level/main_menu
+[2023.06.09-11.22.26:613][421]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/main_menu7CC2B49A4BF02A9B34F684B109F2CE0E.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/main_menu.uasset'
+[2023.06.09-11.22.26:619][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2.13 sec)
+[2023.06.09-11.22.26:629][421]AssetCheck: New page: Asset Save: main_menu
+[2023.06.09-11.22.26:629][421]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/level/main_menu.main_menu
+[2023.06.09-11.22.43:124][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.09-11.22.43:193][397]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level/mmm.mmm
+[2023.06.09-11.22.43:193][397]Cmd: MAP LOAD FILE="../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/mmm.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.09-11.22.43:193][397]LightingResults: New page: Lighting Build
+[2023.06.09-11.22.43:193][397]LoadErrors: New page: Loading map: mmm.umap
+[2023.06.09-11.22.43:216][397]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.22.43:216][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.22.43:247][397]LogWorld: UWorld::CleanupWorld for uitleg, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.22.43:247][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.22.43:247][397]MapCheck: New page: Map Check
+[2023.06.09-11.22.43:247][397]LightingResults: New page: Lighting Build
+[2023.06.09-11.22.43:285][397]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.22.43:288][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.06.09-11.22.43:290][397]LogWorld: UWorld::CleanupWorld for mmm, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.22.43:290][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.22.43:331][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.06.09-11.22.43:372][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.06.09-11.22.43:379][397]LogAudio: Display: Audio Device (ID: 1) registered with world 'mmm'.
+[2023.06.09-11.22.43:379][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.43:379][397]LogAIModule: Creating AISystem for world mmm
+[2023.06.09-11.22.43:393][397]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.09-11.22.43:435][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.09-11.22.43:441][397]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.09-11.22.43:441][397]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2023.06.09-11.22.43:441][397]LogFileHelpers: Loading map 'mmm' took 0.249
+[2023.06.09-11.22.45:034][492]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-11.22.45:040][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-11.22.45:040][492]PIE: New page: PIE session: mmm (9 Jun 2023, 15:22:45)
+[2023.06.09-11.22.45:040][492]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_mmm
+[2023.06.09-11.22.45:041][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001170s)
+[2023.06.09-11.22.45:041][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/mmm.mmm to /Game/level/UEDPIE_0_mmm.mmm (0.001207s)
+[2023.06.09-11.22.45:041][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.45:042][492]LogAIModule: Creating AISystem for world mmm
+[2023.06.09-11.22.45:042][492]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2023.06.09-11.22.45:081][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.06.09-11.22.45:082][492]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.06.09-11.22.45:082][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-11.22.45:082][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-11.22.45:082][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-11.22.45:082][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-11.22.45:082][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-11.22.45:082][492]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-11.22.45:082][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-11.22.45:082][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-11.22.45:083][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-11.22.45:083][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-11.22.45:083][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-11.22.45:086][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-11.22.45:100][492]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Galaxy Buds Pro (BE58))
+[2023.06.09-11.22.45:101][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-11.22.45:101][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-11.22.45:101][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-11.22.45:101][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.06.09-11.22.45:101][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.06.09-11.22.45:103][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.06.09-11.22.45:103][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.06.09-11.22.45:103][492]LogInit: FAudioDevice initialized.
+[2023.06.09-11.22.45:103][492]LogAudio: Display: Audio Device (ID: 18) registered with world 'mmm'.
+[2023.06.09-11.22.45:107][492]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-11.22.45:107][492]LogWorld: Bringing World /Game/level/UEDPIE_0_mmm.mmm up for play (max tick rate 60) at 2023.06.09-13.22.45
+[2023.06.09-11.22.45:107][492]LogWorld: Bringing up level for play took: 0.000351
+[2023.06.09-11.22.45:109][492]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.06.09-11.22.45:112][492]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.09-11.22.45:112][492]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.06.09-11.22.45:117][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Set Health Bar Info Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.45:117][492]PIE: Server logged in
+[2023.06.09-11.22.45:118][492]PIE: Play in editor total start time 0.077 seconds.
+[2023.06.09-11.22.45:118][492]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_1_mmm
+[2023.06.09-11.22.45:119][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001123s)
+[2023.06.09-11.22.45:119][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/mmm.mmm to /Game/level/UEDPIE_1_mmm.mmm (0.001157s)
+[2023.06.09-11.22.45:119][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.45:119][492]LogAIModule: Creating AISystem for world mmm
+[2023.06.09-11.22.45:119][492]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2023.06.09-11.22.45:159][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.06.09-11.22.45:160][492]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.06.09-11.22.45:160][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-11.22.45:160][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-11.22.45:160][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-11.22.45:160][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-11.22.45:160][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-11.22.45:160][492]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-11.22.45:160][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-11.22.45:160][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-11.22.45:161][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-11.22.45:161][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-11.22.45:161][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-11.22.45:163][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-11.22.45:175][492]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Galaxy Buds Pro (BE58))
+[2023.06.09-11.22.45:175][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-11.22.45:175][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-11.22.45:175][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-11.22.45:175][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.06.09-11.22.45:175][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.06.09-11.22.45:178][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.06.09-11.22.45:178][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.06.09-11.22.45:178][492]LogInit: FAudioDevice initialized.
+[2023.06.09-11.22.45:178][492]LogAudio: Display: Audio Device (ID: 19) registered with world 'mmm'.
+[2023.06.09-11.22.45:214][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.22.45:214][492]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-11.22.45:215][492]LogWorld: Bringing World /Game/level/UEDPIE_1_mmm.mmm up for play (max tick rate 60) at 2023.06.09-13.22.45
+[2023.06.09-11.22.45:215][492]LogWorld: Bringing up level for play took: 0.000435
+[2023.06.09-11.22.45:217][492]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.06.09-11.22.45:219][492]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.09-11.22.45:219][492]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.06.09-11.22.45:220][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Set Health Bar Info Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.45:221][492]PIE: Server logged in
+[2023.06.09-11.22.45:222][492]PIE: Play in editor total start time 0.181 seconds.
+[2023.06.09-11.22.45:222][492]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_2_mmm
+[2023.06.09-11.22.45:223][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001294s)
+[2023.06.09-11.22.45:223][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/mmm.mmm to /Game/level/UEDPIE_2_mmm.mmm (0.001325s)
+[2023.06.09-11.22.45:223][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.45:223][492]LogAIModule: Creating AISystem for world mmm
+[2023.06.09-11.22.45:224][492]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2023.06.09-11.22.45:266][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.06.09-11.22.45:267][492]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.06.09-11.22.45:267][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-11.22.45:267][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-11.22.45:267][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-11.22.45:267][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-11.22.45:267][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-11.22.45:267][492]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-11.22.45:267][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-11.22.45:267][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-11.22.45:268][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-11.22.45:268][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-11.22.45:268][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-11.22.45:270][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-11.22.45:282][492]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Galaxy Buds Pro (BE58))
+[2023.06.09-11.22.45:283][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-11.22.45:283][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-11.22.45:283][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-11.22.45:283][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.06.09-11.22.45:283][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.06.09-11.22.45:285][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.06.09-11.22.45:285][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.06.09-11.22.45:285][492]LogInit: FAudioDevice initialized.
+[2023.06.09-11.22.45:285][492]LogAudio: Display: Audio Device (ID: 20) registered with world 'mmm'.
+[2023.06.09-11.22.45:326][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.22.45:327][492]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-11.22.45:327][492]LogWorld: Bringing World /Game/level/UEDPIE_2_mmm.mmm up for play (max tick rate 60) at 2023.06.09-13.22.45
+[2023.06.09-11.22.45:327][492]LogWorld: Bringing up level for play took: 0.000526
+[2023.06.09-11.22.45:330][492]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.06.09-11.22.45:332][492]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.09-11.22.45:332][492]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.06.09-11.22.45:333][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Set Health Bar Info Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.45:334][492]PIE: Server logged in
+[2023.06.09-11.22.45:334][492]PIE: Play in editor total start time 0.294 seconds.
+[2023.06.09-11.22.45:334][492]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_3_mmm
+[2023.06.09-11.22.45:336][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001211s)
+[2023.06.09-11.22.45:336][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/mmm.mmm to /Game/level/UEDPIE_3_mmm.mmm (0.001240s)
+[2023.06.09-11.22.45:336][492]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.45:336][492]LogAIModule: Creating AISystem for world mmm
+[2023.06.09-11.22.45:336][492]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2023.06.09-11.22.45:377][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.06.09-11.22.45:378][492]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.06.09-11.22.45:378][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-11.22.45:378][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-11.22.45:378][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-11.22.45:378][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-11.22.45:378][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-11.22.45:378][492]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-11.22.45:378][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-11.22.45:378][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-11.22.45:378][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-11.22.45:378][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-11.22.45:378][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-11.22.45:380][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-11.22.45:394][492]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Galaxy Buds Pro (BE58))
+[2023.06.09-11.22.45:394][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-11.22.45:394][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-11.22.45:394][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-11.22.45:395][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.06.09-11.22.45:395][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.06.09-11.22.45:397][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.06.09-11.22.45:397][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.06.09-11.22.45:397][492]LogInit: FAudioDevice initialized.
+[2023.06.09-11.22.45:397][492]LogAudio: Display: Audio Device (ID: 21) registered with world 'mmm'.
+[2023.06.09-11.22.45:436][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.22.45:437][492]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-11.22.45:438][492]LogWorld: Bringing World /Game/level/UEDPIE_3_mmm.mmm up for play (max tick rate 60) at 2023.06.09-13.22.45
+[2023.06.09-11.22.45:438][492]LogWorld: Bringing up level for play took: 0.000716
+[2023.06.09-11.22.45:440][492]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.06.09-11.22.45:443][492]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.09-11.22.45:443][492]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.06.09-11.22.45:443][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Set Health Bar Info Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.45:445][492]PIE: Server logged in
+[2023.06.09-11.22.45:445][492]PIE: Play in editor total start time 0.405 seconds.
+[2023.06.09-11.22.45:478][492]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'onlymp3'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.06.09-11.22.45:478][492]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'onlymp3__5_'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.06.09-11.22.45:478][492]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'onlymp3'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.06.09-11.22.45:487][492]LogViewport: Scene viewport resized to 641x480, mode Windowed.
+[2023.06.09-11.22.45:496][492]LogViewport: Scene viewport resized to 641x480, mode Windowed.
+[2023.06.09-11.22.45:514][492]LogViewport: Scene viewport resized to 641x480, mode Windowed.
+[2023.06.09-11.22.46:141][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.46:142][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.46:142][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.46:143][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.47:140][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.47:141][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.47:141][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.47:141][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.47:806][624]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.09-11.22.47:807][624]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.06.09-11.22.47:808][624]LogNet: Browse: /Game/level/uitleg
+[2023.06.09-11.22.47:808][624]LogLoad: LoadMap: /Game/level/uitleg
+[2023.06.09-11.22.47:809][624]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_mmm
+[2023.06.09-11.22.47:809][624]LogWorld: UWorld::CleanupWorld for mmm, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.22.47:809][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.22.47:895][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.22.47:898][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.06.09-11.22.47:905][624]LogAudio: Display: Audio Device (ID: 18) registered with world 'uitleg'.
+[2023.06.09-11.22.47:905][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.47:905][624]LogAIModule: Creating AISystem for world uitleg
+[2023.06.09-11.22.47:906][624]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2023.06.09-11.22.47:906][624]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-11.22.47:906][624]LogWorld: Bringing World /Game/level/UEDPIE_0_uitleg.uitleg up for play (max tick rate 60) at 2023.06.09-13.22.47
+[2023.06.09-11.22.47:906][624]LogWorld: Bringing up level for play took: 0.000422
+[2023.06.09-11.22.47:906][624]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.09-11.22.47:909][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Set Health Bar Info Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.47:909][624]LogLoad: Took 0.099584 seconds to LoadMap(/Game/level/uitleg)
+[2023.06.09-11.22.48:161][639]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.48:161][639]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.48:162][639]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.48:793][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.49:161][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.49:162][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.49:162][699]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.49:794][737]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.50:160][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.50:161][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.50:161][759]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.50:793][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.51:161][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.51:161][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.51:162][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.51:794][857]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.52:161][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.52:161][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.52:161][879]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.52:794][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.53:160][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.53:161][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.53:161][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.53:794][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.54:160][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.54:161][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.54:161][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.54:794][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.55:160][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.55:161][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.55:161][ 59]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.55:794][ 97]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.56:161][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.56:161][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.56:162][119]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.56:794][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.57:161][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.57:161][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.57:162][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.57:794][217]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.57:810][218]LogNet: Browse: /Game/level/level1
+[2023.06.09-11.22.57:810][218]LogLoad: LoadMap: /Game/level/level1
+[2023.06.09-11.22.57:810][218]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_uitleg
+[2023.06.09-11.22.57:811][218]LogWorld: UWorld::CleanupWorld for uitleg, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.22.57:811][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.22.57:875][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.22.57:878][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.06.09-11.22.57:893][218]LogAudio: Display: Audio Device (ID: 18) registered with world 'level1'.
+[2023.06.09-11.22.57:893][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.22.57:894][218]LogAIModule: Creating AISystem for world level1
+[2023.06.09-11.22.57:894][218]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2023.06.09-11.22.57:894][218]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-11.22.57:904][218]LogWorld: Bringing World /Game/level/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2023.06.09-13.22.57
+[2023.06.09-11.22.57:904][218]LogWorld: Bringing up level for play took: 0.009416
+[2023.06.09-11.22.57:907][218]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Set Health Bar Info Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.57:907][218]LogLoad: Took 0.097324 seconds to LoadMap(/Game/level/level1)
+[2023.06.09-11.22.58:174][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.58:175][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.58:175][231]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.58:307][239]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2023.06.09-11.22.58:307][239]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2023.06.09-11.22.58:807][269]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.59:175][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.59:175][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.59:176][291]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.22.59:807][329]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.00:175][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.00:175][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.00:176][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.00:808][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.01:174][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.01:175][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.01:175][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.01:807][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.02:175][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.02:175][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.02:176][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.02:808][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.03:175][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.03:175][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.03:176][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property mainWB". Node:  Seconds Text Graph:  EventGraph Function:  Execute Ubergraph Contoller Blueprint:  contoller
+[2023.06.09-11.23.03:948][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.23.03:949][567]LogWorld: BeginTearingDown for /Game/level/UEDPIE_3_mmm
+[2023.06.09-11.23.03:949][567]LogSlate: Window 'tetrisRunAway Preview [NetMode: Standalone 3]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.09-11.23.03:952][567]LogWorld: UWorld::CleanupWorld for mmm, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.23.03:952][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.03:954][567]LogWorld: BeginTearingDown for /Game/level/UEDPIE_2_mmm
+[2023.06.09-11.23.03:955][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.23.03:955][567]LogSlate: Window 'tetrisRunAway Preview [NetMode: Standalone 2]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.09-11.23.03:957][567]LogWorld: UWorld::CleanupWorld for mmm, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.23.03:957][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.03:960][567]LogWorld: BeginTearingDown for /Game/level/UEDPIE_1_mmm
+[2023.06.09-11.23.03:961][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.23.03:961][567]LogSlate: Window 'tetrisRunAway Preview [NetMode: Standalone 1]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.09-11.23.03:963][567]LogWorld: UWorld::CleanupWorld for mmm, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.23.03:963][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.03:965][567]LogWorld: BeginTearingDown for /Game/level/UEDPIE_0_level1
+[2023.06.09-11.23.03:966][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.23.03:966][567]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.23.03:967][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.03:969][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-11.23.03:975][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.23.04:019][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.23.04:019][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-11.23.04:019][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.06.09-11.23.04:020][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.06.09-11.23.04:025][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.06.09-11.23.04:027][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.06.09-11.23.04:030][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.06.09-11.23.04:032][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.06.09-11.23.04:035][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.06.09-11.23.04:036][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.06.09-11.23.04:043][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.09-11.23.04:132][568]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.06.09-11.23.04:132][568]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.06.09-11.23.04:132][568]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.06.09-11.23.04:132][568]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.06.09-11.23.14:119][160]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2023.06.09-11.23.14:130][161]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14692
+[2023.06.09-11.23.14:413][178]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{99972366-fd29-4f0a-be3e-7ffdb229b84f}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=267.01
+[2023.06.09-11.23.14:413][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.09-11.23.14:415][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.09-11.24.00:600][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.06.09-11.24.00:665][939]LogAssetEditorSubsystem: Opening Asset editor for World /Game/level/uitleg.uitleg
+[2023.06.09-11.24.00:665][939]Cmd: MAP LOAD FILE="../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/uitleg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.09-11.24.00:665][939]LightingResults: New page: Lighting Build
+[2023.06.09-11.24.00:665][939]LoadErrors: New page: Loading map: uitleg.umap
+[2023.06.09-11.24.00:667][939]LogWorld: UWorld::CleanupWorld for mmm, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.24.00:667][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.24.00:667][939]MapCheck: New page: Map Check
+[2023.06.09-11.24.00:667][939]LightingResults: New page: Lighting Build
+[2023.06.09-11.24.00:705][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-11.24.00:707][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.06.09-11.24.00:709][939]LogWorld: UWorld::CleanupWorld for uitleg, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-11.24.00:709][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-11.24.00:750][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.06.09-11.24.00:788][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.06.09-11.24.00:795][939]LogAudio: Display: Audio Device (ID: 1) registered with world 'uitleg'.
+[2023.06.09-11.24.00:795][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.24.00:795][939]LogAIModule: Creating AISystem for world uitleg
+[2023.06.09-11.24.00:802][939]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.09-11.24.00:842][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.06.09-11.24.00:849][939]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.09-11.24.00:850][939]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2023.06.09-11.24.00:850][939]LogFileHelpers: Loading map 'uitleg' took 0.185
+[2023.06.09-11.24.03:682][106]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/level/uitleg.uitleg:PersistentLevel.uitleg
+[2023.06.09-11.24.03:682][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-11.24.13:161][644]BlueprintLog: New page: Compile uitleg
+[2023.06.09-11.24.13:223][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.06.09-11.24.13:235][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-11.24.13:343][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.09-11.24.13:348][644]LogSavePackage: Moving output files for package: /Game/level/uitleg
+[2023.06.09-11.24.13:348][644]LogSavePackage: Moving '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Saved/uitlegB15CE0E940CE7908519412B218861036.tmp' to '../../../../../../Users/dakka/OneDrive/Documenten/GitHub/UEproject/tetrisRunAway/Content/level/uitleg.umap'
+[2023.06.09-11.24.13:355][644]LogFileHelpers: Saving map 'uitleg' took 0.058
+[2023.06.09-11.24.13:361][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.26 sec)
+[2023.06.09-11.24.13:372][644]AssetCheck: New page: Asset Save: uitleg
+[2023.06.09-11.24.13:372][644]LogContentValidation: Display: Validating /Script/Engine.World /Game/level/uitleg.uitleg
